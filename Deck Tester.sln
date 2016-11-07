@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{1BA7F439-94DA-2184-693C-1EBB54E18625}") = "Deck Tester", "Assembly-CSharp.csproj", "{081FC2E0-FE5E-E1FA-4A55-B3994155C642}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{081FC2E0-FE5E-E1FA-4A55-B3994155C642}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{081FC2E0-FE5E-E1FA-4A55-B3994155C642}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{081FC2E0-FE5E-E1FA-4A55-B3994155C642}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{081FC2E0-FE5E-E1FA-4A55-B3994155C642}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
